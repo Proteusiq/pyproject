@@ -1,5 +1,6 @@
 
-![fox](/Users/pradan/Library/Application%20Support/CleanShot/media/media_m7XFpmfYdH/CleanShot%202025-01-15%20at%2013.02.30.png)
+![foxy](https://github.com/user-attachments/assets/551303aa-e025-46d4-983f-0f933bfccd00)
+
 ---
 
 [![Build status](https://img.shields.io/github/actions/workflow/status/proteusiq/pyproject/main.yml?branch=main)](https://github.com/proteusiq/pyproject/actions/workflows/main.yml?query=branch%3Amain)
