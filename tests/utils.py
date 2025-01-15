@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-import os
+from os import chdir
 from contextlib import contextmanager
 from pathlib import Path
 
@@ -28,15 +28,14 @@ def is_valid_yaml(path: str | Path):
 
 
 @contextmanager
-def run_within_dir(path: str):
-    oldpwd = os.getcwd()
-    os.chdir(path)
+def run_within_dir(path: str | Path):
+    oldpwd = Path.cwd()
+    chdir(Path(path))
     try:
         yield
     finally:
-        os.chdir(oldpwd)
+        chdir(oldpwd)
 
 
-def file_contains_text(file: str, text: str) -> bool:
-    with open(file) as f:
-        return f.read().find(text) != -1
+def file_contains_text(file: str | Path, text: str) -> bool:
+    return text in Path(file).read_text()
