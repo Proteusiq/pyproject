@@ -23,10 +23,15 @@ def test_using_pytest(cookies, tmp_path):
             "project_slug": "example_project",
             "project_description": "Test Project",
             "full_name": "Test User",
-            "email": "test@example.com",
+            "email": "test@example.com", 
             "github_username": "testuser",
             "version": "0.1.0",
-            "open_source_license": "MIT license"
+            "open_source_license": "MIT license",
+            "codecov": "y",
+            "devcontainer": "n",
+            "dockerfile": "n",
+            "mkdocs": "y",
+            "publish_to_pypi": "y"
         })
 
         # Assert that project was created.
