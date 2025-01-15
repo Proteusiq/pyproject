@@ -3,7 +3,7 @@
     "email": "praysonpi@gmail.com",
     "author_github_handle": "proteusiq",
     "project_name": "Project-X",
-    "project_slug":"{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
     "python_package_name": "{{ cookiecutter.project_slug }}",
     "project_description": "Awesome Project Description.",
     "include_github_actions": ["y", "n"],

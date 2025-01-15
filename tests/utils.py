@@ -1,7 +1,7 @@
 from __future__ import annotations
 
-from os import chdir
 from contextlib import contextmanager
+from os import chdir
 from pathlib import Path
 
 import yaml
