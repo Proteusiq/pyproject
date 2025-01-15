@@ -11,5 +11,3 @@ def echo(thing: str) -> str:
     """
 
     return "".join(letter if letter != 'i' else 'o' for letter in thing)
-
-

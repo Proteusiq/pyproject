@@ -1,4 +1,3 @@
-
 ![foxy](https://github.com/user-attachments/assets/551303aa-e025-46d4-983f-0f933bfccd00)
 
 ---
@@ -49,6 +48,6 @@ Follow the prompts to configure your project. Once completed, a new directory co
 ## Acknowledgements
 
 This project is based on [Florian Mass\'s](https://github.com/fpgmaas) [cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv) => [Audrey
-Feldroy\'s](https://github.com/audreyfeldroy)\'s 
+Feldroy\'s](https://github.com/audreyfeldroy)\'s
 [cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage)
 repository.
