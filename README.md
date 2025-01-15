@@ -22,7 +22,7 @@ A Python project template with modern tools for testing, deployment, and quality
 ---
 
 <p align="center">
-  <a href="https://proteusiq.github.io/pyproject/">Documentation</a> 
+  <a href="https://proteusiq.github.io/pyproject/">Documentation</a>
 </p>
 
 ---
