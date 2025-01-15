@@ -7,7 +7,6 @@
 [![Docs](https://img.shields.io/badge/docs-gh--pages-blue)](https://proteusiq.github.io/pyproject/)
 [![License](https://img.shields.io/github/license/proteusiq/pyproject)](https://img.shields.io/github/license/proteusiq/pyproject)
 
-This is a modern Cookiecutter template that can be used to initiate a Python project with all the necessary tools for development, testing, and deployment. It supports the following features:
 
 - [uv](https://docs.astral.sh/uv/) for dependency management
 - CI/CD with [GitHub Actions](https://github.com/features/actions)
