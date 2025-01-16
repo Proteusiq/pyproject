@@ -1,4 +1,11 @@
 repos:
+  - repo: local
+    hooks:
+      - id: readme-index
+        name: cat-readme-index
+        entry: sh -c 'cat README.md > docs/index.md'
+        language: system
+
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: "v4.4.0"
     hooks:
