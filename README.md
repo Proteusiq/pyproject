@@ -7,7 +7,7 @@
 [![Docs](https://img.shields.io/badge/docs-gh--pages-blue)](https://proteusiq.github.io/pyproject/)
 [![License](https://img.shields.io/github/license/proteusiq/pyproject)](https://img.shields.io/github/license/proteusiq/pyproject)
 
-A Python project template with modern tools for testing, deployment, and quality assurance. Key features include:
+A Python project template with modern toolings for testing, deployment, and quality assurance. Key features include:
 
 - [uv](https://docs.astral.sh/uv/) for fast, reliable dependency management
 - CI/CD with [GitHub Actions](https://github.com/features/actions)
