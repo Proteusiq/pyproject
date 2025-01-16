@@ -47,7 +47,6 @@ Follow the prompts to configure your project. Once completed, a new directory co
 
 ## Acknowledgements
 
-This project is based on [Florian Mass\'s](https://github.com/fpgmaas) [cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv) => [Audrey
-Feldroy\'s](https://github.com/audreyfeldroy)\'s
-[cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage)
-repository.
+This project is based on [Florian Mass'](https://github.com/fpgmaas) [cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv) => [Audrey
+Feldroy](https://github.com/audreyfeldroy)'s [cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage).
+
